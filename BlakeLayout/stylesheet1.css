@@ -1,0 +1,42 @@
+#content {
+    margin: 0 auto;
+    width: 900px;
+}
+
+#byline {
+    font-family: Helvetica, arial, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-family: Helvetica, arial, sans-serif;
+    color: blue;
+    
+}
+
+#photo {
+    text-align: center;
+}
+
+#caption
+{ font-size: .9em;
+text-align: center;
+}
+
+#description {
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+blockquote {
+    font-size: 2em;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+}
+
+#masthead {
+    text-align: center;
+}
