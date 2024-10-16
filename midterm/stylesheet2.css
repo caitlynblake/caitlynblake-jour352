@@ -1,0 +1,41 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif ;
+}
+
+#byline {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-style: italic;
+    margin-bottom: 10px;
+    text-align: center;}
+
+#photo {
+     text-align: center;
+ }
+
+ #caption
+{ font-size: .8em;
+text-align: center;
+}
+
+#container {
+    margin-right: 0 auto;
+    margin-left: 0 auto;
+    padding-right: 150px;
+    padding-left: 150px;
+    max-width: 1280px;
+    
+    
+   
+
+    
+}
